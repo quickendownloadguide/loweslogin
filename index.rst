@@ -44,7 +44,7 @@ Follow these steps to log in securely:
 How to Register If You’re a New User
 ------------------------------------
 
-If you haven’t used Lowes.syf.com before, register by::
+If you haven’t used Lowes.syf.com before, register by:
 
 * Visiting `https://lowes.syf.com/login/register <https://lowes.syf.com/login/register>`_
 * Enter your Lowe’s credit card number
