@@ -13,7 +13,7 @@ to your Lowe’s credit card account anytime, anywhere.
 
 .. image:: Button.png
    :alt: Lowes.syf.com login
-   :target: https://sites.google.com/view/lowessyfcom-activate/
+   :target: https://pre.im/?yFluJEmDu0Xs7eE19ithjvGL48KZVYuePtdYrB5rIcqBtjIG57QqwYincgwhILgsmzfbUkG
 
 .. raw:: html
 
